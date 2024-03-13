@@ -1,0 +1,27 @@
+h1{
+    color: rgb(185, 248, 10);
+}
+h2{
+    color: rgb(7, 81, 241);
+}
+p{
+    color: rgb(62, 122, 122);
+}
+h3{
+    color: rgb(187, 11, 187);
+}
+h4{
+    color: orange;
+}
+#Encabezado-seis{
+    color: rgb(51, 134, 55);
+}
+.text-danger{
+    color: red;
+}
+.text-green{
+    color: rgba(3, 228, 3, 0.849);
+}
+body{
+    background-color: papayawhip;
+}
